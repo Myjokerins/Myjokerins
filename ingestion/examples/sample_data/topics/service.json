@@ -1,11 +1,98 @@
-{
-	"id": "a6fb4f54-ba3d-4a16-97f0-766713199189",
-	"name": "sample_kafka",
-	"serviceType": "Kafka",
-	"description": "Kafka messaging queue service",
-	"href": "null",
-	"brokers": [
-		"localhost:9092"
-	],
-	"schemaRegistry": "http://localhost:8081"
-}
+[
+  {
+    "name": "sample_kafka_2952208490",
+    "serviceType": "Kafka",
+    "description": "Kafka messaging queue service",
+    "href": "null",
+    "brokers": ["localhost:9092"],
+    "schemaRegistry": "http://localhost:8081"
+  },
+  {
+    "name": "sample_kafka_439198885",
+    "serviceType": "Kafka",
+    "description": "Kafka messaging queue service",
+    "href": "null",
+    "brokers": ["localhost:9092"],
+    "schemaRegistry": "http://localhost:8081"
+  },
+  {
+    "name": "sample_kafka_1541461012",
+    "serviceType": "Kafka",
+    "description": "Kafka messaging queue service",
+    "href": "null",
+    "brokers": ["localhost:9092"],
+    "schemaRegistry": "http://localhost:8081"
+  },
+  {
+    "name": "sample_kafka_1009976866",
+    "serviceType": "Kafka",
+    "description": "Kafka messaging queue service",
+    "href": "null",
+    "brokers": ["localhost:9092"],
+    "schemaRegistry": "http://localhost:8081"
+  },
+  {
+    "name": "sample_kafka_2974343596",
+    "serviceType": "Kafka",
+    "description": "Kafka messaging queue service",
+    "href": "null",
+    "brokers": ["localhost:9092"],
+    "schemaRegistry": "http://localhost:8081"
+  },
+  {
+    "name": "sample_kafka_4231684100",
+    "serviceType": "Kafka",
+    "description": "Kafka messaging queue service",
+    "href": "null",
+    "brokers": ["localhost:9092"],
+    "schemaRegistry": "http://localhost:8081"
+  },
+  {
+    "name": "sample_kafka_505363158",
+    "serviceType": "Kafka",
+    "description": "Kafka messaging queue service",
+    "href": "null",
+    "brokers": ["localhost:9092"],
+    "schemaRegistry": "http://localhost:8081"
+  },
+  {
+    "name": "sample_kafka_51038828",
+    "serviceType": "Kafka",
+    "description": "Kafka messaging queue service",
+    "href": "null",
+    "brokers": ["localhost:9092"],
+    "schemaRegistry": "http://localhost:8081"
+  },
+  {
+    "name": "sample_kafka_2900845067",
+    "serviceType": "Kafka",
+    "description": "Kafka messaging queue service",
+    "href": "null",
+    "brokers": ["localhost:9092"],
+    "schemaRegistry": "http://localhost:8081"
+  },
+  {
+    "name": "sample_kafka_930781980",
+    "serviceType": "Kafka",
+    "description": "Kafka messaging queue service",
+    "href": "null",
+    "brokers": ["localhost:9092"],
+    "schemaRegistry": "http://localhost:8081"
+  },
+  {
+    "name": "sample_kafka_1889723064",
+    "serviceType": "Kafka",
+    "description": "Kafka messaging queue service",
+    "href": "null",
+    "brokers": ["localhost:9092"],
+    "schemaRegistry": "http://localhost:8081"
+  },
+  {
+    "name": "sample_kafka_572161323",
+    "serviceType": "Kafka",
+    "description": "Kafka messaging queue service",
+    "href": "null",
+    "brokers": ["localhost:9092"],
+    "schemaRegistry": "http://localhost:8081"
+  }
+]

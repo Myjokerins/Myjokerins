@@ -1,11 +1,132 @@
-{
-  "id": "89229e26-7f74-4443-a568-85512eaeaa07",
-  "name": "bigquery",
-  "serviceType": "BigQuery",
-  "description": "BigQuery service used for shopify data",
-  "href": "null",
-  "jdbc": {
-    "driverClass" : "jdbc",
-    "connectionUrl" : "jdbc://localhost"
+[
+  {
+    "name": "bigquery_585722812",
+    "serviceType": "BigQuery",
+    "description": "BigQuery service used for shopify data",
+    "href": "null",
+    "jdbc": {
+      "driverClass": "jdbc",
+      "connectionUrl": "jdbc://localhost"
+    }
+  },
+  {
+    "name": "mysql_1319119521",
+    "serviceType": "MySQL",
+    "description": "Mysql service used for shopify data",
+    "href": "null",
+    "jdbc": {
+      "driverClass": "jdbc",
+      "connectionUrl": "jdbc://localhost"
+    }
+  },
+  {
+    "name": "bigquery_375536367",
+    "serviceType": "BigQuery",
+    "description": "BigQuery service used for shopify data",
+    "href": "null",
+    "jdbc": {
+      "driverClass": "jdbc",
+      "connectionUrl": "jdbc://localhost"
+    }
+  },
+  {
+    "name": "bigquery_3692462728",
+    "serviceType": "BigQuery",
+    "description": "BigQuery service used for shopify data",
+    "href": "null",
+    "jdbc": {
+      "driverClass": "jdbc",
+      "connectionUrl": "jdbc://localhost"
+    }
+  },
+  {
+    "name": "bigquery_2549874391",
+    "serviceType": "BigQuery",
+    "description": "BigQuery service used for shopify data",
+    "href": "null",
+    "jdbc": {
+      "driverClass": "jdbc",
+      "connectionUrl": "jdbc://localhost"
+    }
+  },
+  {
+    "name": "bigquery_367746052",
+    "serviceType": "BigQuery",
+    "description": "BigQuery service used for shopify data",
+    "href": "null",
+    "jdbc": {
+      "driverClass": "jdbc",
+      "connectionUrl": "jdbc://localhost"
+    }
+  },
+  {
+    "name": "bigquery_3425449705",
+    "serviceType": "BigQuery",
+    "description": "BigQuery service used for shopify data",
+    "href": "null",
+    "jdbc": {
+      "driverClass": "jdbc",
+      "connectionUrl": "jdbc://localhost"
+    }
+  },
+  {
+    "name": "bigquery_3317571347",
+    "serviceType": "BigQuery",
+    "description": "BigQuery service used for shopify data",
+    "href": "null",
+    "jdbc": {
+      "driverClass": "jdbc",
+      "connectionUrl": "jdbc://localhost"
+    }
+  },
+  {
+    "name": "bigquery_1309959940",
+    "serviceType": "BigQuery",
+    "description": "BigQuery service used for shopify data",
+    "href": "null",
+    "jdbc": {
+      "driverClass": "jdbc",
+      "connectionUrl": "jdbc://localhost"
+    }
+  },
+  {
+    "name": "bigquery_2616163087",
+    "serviceType": "BigQuery",
+    "description": "BigQuery service used for shopify data",
+    "href": "null",
+    "jdbc": {
+      "driverClass": "jdbc",
+      "connectionUrl": "jdbc://localhost"
+    }
+  },
+  {
+    "name": "bigquery_2416022853",
+    "serviceType": "BigQuery",
+    "description": "BigQuery service used for shopify data",
+    "href": "null",
+    "jdbc": {
+      "driverClass": "jdbc",
+      "connectionUrl": "jdbc://localhost"
+    }
+  },
+  {
+    "name": "bigquery_2356472251",
+    "serviceType": "BigQuery",
+    "description": "BigQuery service used for shopify data",
+    "href": "null",
+    "jdbc": {
+      "driverClass": "jdbc",
+      "connectionUrl": "jdbc://localhost"
+    }
+  },
+  {
+    "name": "bigquery_3658587419",
+    "serviceType": "BigQuery",
+    "description": "BigQuery service used for shopify data",
+    "href": "null",
+    "jdbc": {
+      "driverClass": "jdbc",
+      "connectionUrl": "jdbc://localhost"
+    }
   }
-}
+]

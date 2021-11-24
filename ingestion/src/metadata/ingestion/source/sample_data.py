@@ -58,7 +58,6 @@ from metadata.ingestion.models.table_metadata import Chart, Dashboard
 from metadata.ingestion.models.user import User
 from metadata.ingestion.ometa.ometa_api import OpenMetadata
 from metadata.ingestion.ometa.openmetadata_rest import MetadataServerConfig
-from metadata.utils.helpers import get_database_service_or_create
 
 logger: logging.Logger = logging.getLogger(__name__)
 
@@ -287,18 +286,20 @@ class SampleDataSource(Source):
         self.tables = json.load(
             open(self.config.sample_data_folder + "/datasets/tables.json", "r")
         )
-        self.database_service = get_database_service_or_create(
-            self.database_service_json, self.metadata_config
-        )
+        for i in self.database_service_json:
+            self.database_service = get_database_service_or_create(
+                i, self.metadata_config
+            )
         self.kafka_service_json = json.load(
             open(self.config.sample_data_folder + "/topics/service.json", "r")
         )
         self.topics = json.load(
             open(self.config.sample_data_folder + "/topics/topics.json", "r")
         )
-        self.kafka_service = get_messaging_service_or_create(
-            self.kafka_service_json, self.metadata_config
-        )
+        for i in self.kafka_service_json:
+            self.kafka_service = get_messaging_service_or_create(
+                i, self.metadata_config
+            )
         self.dashboard_service_json = json.load(
             open(self.config.sample_data_folder + "/dashboards/service.json", "r")
         )
@@ -308,18 +309,16 @@ class SampleDataSource(Source):
         self.dashboards = json.load(
             open(self.config.sample_data_folder + "/dashboards/dashboards.json", "r")
         )
-        self.dashboard_service = get_dashboard_service_or_create(
-            self.dashboard_service_json, metadata_config
-        )
+        for i in self.dashboard_service_json:
+            self.dashboard_service = get_dashboard_service_or_create(i, metadata_config)
         self.pipeline_service_json = json.load(
             open(self.config.sample_data_folder + "/pipelines/service.json", "r")
         )
         self.pipelines = json.load(
             open(self.config.sample_data_folder + "/pipelines/pipelines.json", "r")
         )
-        self.pipeline_service = get_pipeline_service_or_create(
-            self.pipeline_service_json, metadata_config
-        )
+        for i in self.pipeline_service_json:
+            self.pipeline_service = get_pipeline_service_or_create(i, metadata_config)
         self.lineage = json.load(
             open(self.config.sample_data_folder + "/lineage/lineage.json", "r")
         )

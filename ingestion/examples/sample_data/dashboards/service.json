@@ -1,8 +1,92 @@
-{
-	"name": "sample_superset",
+[{
+	"name": "sample_superset_3411594610",
 	"serviceType": "Superset",
 	"description": "Supset Service",
   	"dashboardUrl": "http://localhost:8088",
   	"username": "admin",
   	"password": "admin"
-}
+},{
+	"name": "sample_superset_2581137620",
+	"serviceType": "Superset",
+	"description": "Supset Service",
+  	"dashboardUrl": "http://localhost:8088",
+  	"username": "admin",
+  	"password": "admin"
+},{
+	"name": "sample_superset_1533814403",
+	"serviceType": "Superset",
+	"description": "Supset Service",
+  	"dashboardUrl": "http://localhost:8088",
+  	"username": "admin",
+  	"password": "admin"
+},{
+	"name": "sample_superset_507531200",
+	"serviceType": "Superset",
+	"description": "Supset Service",
+  	"dashboardUrl": "http://localhost:8088",
+  	"username": "admin",
+  	"password": "admin"
+},{
+	"name": "sample_superset_3827305890",
+	"serviceType": "Superset",
+	"description": "Supset Service",
+  	"dashboardUrl": "http://localhost:8088",
+  	"username": "admin",
+  	"password": "admin"
+},{
+	"name": "sample_superset_2102768145",
+	"serviceType": "Superset",
+	"description": "Supset Service",
+  	"dashboardUrl": "http://localhost:8088",
+  	"username": "admin",
+  	"password": "admin"
+},{
+	"name": "sample_superset_1002015227",
+	"serviceType": "Superset",
+	"description": "Supset Service",
+  	"dashboardUrl": "http://localhost:8088",
+  	"username": "admin",
+  	"password": "admin"
+},{
+	"name": "sample_superset_2826293210",
+	"serviceType": "Superset",
+	"description": "Supset Service",
+  	"dashboardUrl": "http://localhost:8088",
+  	"username": "admin",
+  	"password": "admin"
+},{
+	"name": "sample_superset_788324356",
+	"serviceType": "Superset",
+	"description": "Supset Service",
+  	"dashboardUrl": "http://localhost:8088",
+  	"username": "admin",
+  	"password": "admin"
+},{
+	"name": "sample_superset_2416302881",
+	"serviceType": "Superset",
+	"description": "Supset Service",
+  	"dashboardUrl": "http://localhost:8088",
+  	"username": "admin",
+  	"password": "admin"
+},{
+	"name": "sample_superset_2162504760",
+	"serviceType": "Superset",
+	"description": "Supset Service",
+  	"dashboardUrl": "http://localhost:8088",
+  	"username": "admin",
+  	"password": "admin"
+},{
+	"name": "sample_superset_1292268210",
+	"serviceType": "Superset",
+	"description": "Supset Service",
+  	"dashboardUrl": "http://localhost:8088",
+  	"username": "admin",
+  	"password": "admin"
+},{
+	"name": "sample_superset_1179560136",
+	"serviceType": "Superset",
+	"description": "Supset Service",
+  	"dashboardUrl": "http://localhost:8088",
+  	"username": "admin",
+  	"password": "admin"
+}]

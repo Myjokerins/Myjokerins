@@ -1,8 +1,149 @@
-{
-	"id": "a6fb4f54-ba3d-4a16-97f0-766713199189",
-	"name": "sample_airflow",
-	"serviceType": "Airflow",
-	"description": "Airflow service",
-	"href": "null",
-	"pipelineUrl": "http://localhost:8080"
-}
+[
+  {
+    "name": "sample_airflow_2730531503",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_glue_887608974",
+    "serviceType": "Glue",
+    "description": "Glue service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_prefect_1620791165",
+    "serviceType": "Prefect",
+    "description": "Prefect service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_1613321157",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_2849083971",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_980165963",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_1511592408",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_491760302",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_3983698978",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_2812302851",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_2570713395",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_2873656623",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_1055721064",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_225098989",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_1662689506",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_3023090308",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_2899424477",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_457271452",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_1752667681",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_3609875585",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  },
+  {
+    "name": "sample_airflow_4076319856",
+    "serviceType": "Airflow",
+    "description": "Airflow service",
+    "href": "null",
+    "pipelineUrl": "http://localhost:8080"
+  }
+]
