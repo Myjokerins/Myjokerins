@@ -199,7 +199,7 @@ def docker(start, stop, clean, type, path) -> None:
             else:
                 logger.info("Running Latest Release Docker")
                 r = requests.get(
-                    "https://raw.githubusercontent.com/open-metadata/OpenMetadata/main/docker/metadata/docker-compose.yml"
+                    "https://raw.githubusercontent.com/open-metadata/OpenMetadata/test/release-draft-0-7-0/docker/metadata/docker-compose.yml"
                 )
                 open("/tmp/docker-compose.yml", "wb").write(r.content)
                 start_time = time.time()
