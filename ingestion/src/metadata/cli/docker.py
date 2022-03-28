@@ -165,7 +165,6 @@ def run_docker(
             docker.compose.stop()
             logger.info("Docker compose for OpenMetadata stopped successfully.")
         if reset_db:
-
             reset_db_om(docker)
         if clean:
             logger.info(
@@ -177,7 +176,11 @@ def run_docker(
             )
             if file_path is None:
                 docker_compose_file_path.unlink()
-
+    except ModuleNotFoundError:
+        click.secho(
+            "Docker Module not found \nCan you try `python3 -m pip install 'openmetadata-ingestion[docker]'`",
+            fg="red",
+        )
     except MemoryError:
         click.secho(
             f"Please Allocate More memory to Docker.\nRecommended: 6GB\nCurrent: "
