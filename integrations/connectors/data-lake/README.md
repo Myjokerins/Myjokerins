@@ -6,7 +6,7 @@ description: >-
 
 # Data Lake
 
-OpenMetadata now connects to Amazon S3 buckets as well as Google Cloud Storage buckets to infer the schema and ingest metadata. The data lake connector can pick up data from multiple file formats such as JSON, CSV, Parquet and Avro.
+OpenMetadata now connects to **Amazon S3** buckets as well as **Google Cloud Storage** buckets to infer the schema and ingest metadata. The data lake connector can pick up data from multiple file formats such as JSON, CSV, Parquet and Avro.
 
 Configure and schedule Data Lake **metadata** workflows from the OpenMetadata UI.
 

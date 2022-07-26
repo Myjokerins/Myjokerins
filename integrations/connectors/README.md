@@ -4,9 +4,7 @@ OpenMetadata supports connectors to some popular services. We will continue as a
 
 #### Database Services
 
-* Amazon S3 Data Lake
-* [Amundsen](amundsen.md)
-* Apache Atlas
+* [Amazon S3 Data Lake](data-lake/)
 * Apache Druid
 * Apache Iceberg
 * Apache Pinot
@@ -17,11 +15,10 @@ OpenMetadata supports connectors to some popular services. We will continue as a
 * [ClickHouse](clickhouse/)
 * [ClickHouse Usage](clickhouse/)
 * [Databricks](databricks/)
-* [Data Lake](data-lake/)
 * [Delta Lake](delta-lake/)
 * [DynamoDB](dynamodb/)
 * [Glue Catalog](glue-catalog/)
-* Google Cloud Service Data Lake
+* [Google Cloud Service Data Lake](data-lake/)
 * [Hive](hive/)
 * [IBM Db2](ibm-db2.md)
 * [MariaDB](mariadb.md)
@@ -44,7 +41,7 @@ OpenMetadata supports connectors to some popular services. We will continue as a
 
 * [Looker](looker/)
 * [Metabase](metabase/)
-* [Mode](mode/)
+* [Mode Analytics](mode/)
 * Power BI
 * [Redash](redash/)
 * [Superset](superset-1/)
@@ -64,3 +61,11 @@ OpenMetadata supports connectors to some popular services. We will continue as a
 **ML Services**
 
 * [MLflow](mlflow/)
+
+**Other Services**
+
+* [Amundsen](amundsen.md)
+* Apache Atlas
+* [DBT](../../data-lineage/dbt-integration/)
+* LDAP
+* SQLAlchemy

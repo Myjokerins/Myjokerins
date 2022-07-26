@@ -62,7 +62,7 @@
   * [MLflow](integrations/connectors/mlflow/README.md)
     * [Run MLflow Connector with the Airflow SDK](integrations/connectors/mlflow/run-mlflow-connector-with-the-airflow-sdk.md)
     * [Run MLflow Connector using the CLI](integrations/connectors/mlflow/run-mlflow-connector-using-the-cli.md)
-  * [Mode](integrations/connectors/mode/README.md)
+  * [Mode Analytics](integrations/connectors/mode/README.md)
     * [Run Mode Connector with the Airflow SDK](integrations/connectors/mode/run-mode-connector-with-the-airflow-sdk.md)
     * [Run Mode Connector with the CLI](integrations/connectors/mode/run-mode-connector-with-the-cli.md)
   * [MSSQL](integrations/connectors/mssql/README.md)
