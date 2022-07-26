@@ -39,7 +39,7 @@ The first step is ingesting the metadata from your sources. Under Settings you w
 
 To visit the _Services_ page, select _Services_ from the _Settings_ menu.
 
-![Navigate to Settings >> Services](<../../../.gitbook/assets/image (24).png>)
+![Navigate to Settings >> Services](<../../../.gitbook/assets/image (4) (1).png>)
 
 ### 2. Create a New Service
 
@@ -51,7 +51,7 @@ Click on the _Add New Service_ button to start the Service creation.
 
 Select Vertica as the service type and click _Next_.
 
-![](<../../../.gitbook/assets/image (224).png>)
+![](<../../../.gitbook/assets/image (34) (1).png>)
 
 ### 4. Name and Describe your Service
 
@@ -61,7 +61,7 @@ Provide a name and description for your service as illustrated below.
 
 OpenMetadata uniquely identifies services by their _Service Name_. Provide a name that distinguishes your deployment from other services, including the other Vertica services that you might be ingesting metadata from.
 
-![Provide a Name and description for your Service](<../../../.gitbook/assets/image (181) (1).png>)
+![Provide a Name and description for your Service](<../../../.gitbook/assets/image (23) (1) (3).png>)
 
 ### 5. Configure the Service Connection
 
@@ -71,7 +71,7 @@ In this step, we will configure the connection settings required for this connec
 
 Once the credentials have been added, click on **Test Connection** and _Save_ the changes.
 
-![Test Connection and save the Service](<../../../.gitbook/assets/image (200) (1).png>)
+![Test Connection and save the Service](<../../../docs/.gitbook/assets/image (20) (1) (1) (1) (1).png>)
 
 <details>
 
@@ -109,7 +109,7 @@ Enter the details for any additional connection arguments such as security or pr
 
 Once the service is created, we can add a **Metadata Ingestion Workflow**, either directly from the _Add Ingestion_ button in the figure above, or from the Service page:
 
-![](<../../../.gitbook/assets/image (265).png>)
+![](<../../../.gitbook/assets/image (46) (1) (1).png>)
 
 <details>
 

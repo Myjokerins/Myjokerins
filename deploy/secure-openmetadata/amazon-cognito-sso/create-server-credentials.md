@@ -39,6 +39,6 @@
 
 * The App client ID can be found under the "App Integration" tab of the User Pool page. There will be a section that lists all the App clients with client name and client ID as shown below
 
-![](<../../../.gitbook/assets/Screen Shot 2022-07-18 at 12.00.11 AM (1).png>)
+![](<../../../.gitbook/assets/Screen Shot 2022-07-18 at 12.00.11 AM.png>)
 
 ![Client ID](<../../../.gitbook/assets/Screen Shot 2022-07-17 at 11.59.57 PM.png>)

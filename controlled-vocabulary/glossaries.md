@@ -16,4 +16,4 @@ A glossary term lists **Assets** through which you can discover all the data ass
 
 The terms from the glossary can be used for labeling or tagging as additional metadata of data assets for describing and categorizing things. Glossaries are important for data discovery, retrieval, and exploration through conceptual terms and help in data governance.
 
-![](../.gitbook/assets/glossary.gif)
+![](../docs/.gitbook/assets/glossary.gif)

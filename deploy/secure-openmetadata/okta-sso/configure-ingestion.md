@@ -37,7 +37,7 @@ All Connectors have the **workflowConfig** section. Pass the public/private key 
 * **orgURL** - It is the same as the ISSUER\_URL with v1/token. It is recommended to use a separate authorization server for different applications, rather than using the default authorization server.
 * **privateKey** - Use the Public/Private Key Pair that was generated while [Creating the Service Application](create-service-application.md). When copy-pasting the keys ensure that there are no additional codes and that it is a JSON compatible string.
 
-![](<../../../.gitbook/assets/image (45) (1).png>)
+![](<../../../docs/.gitbook/assets/image (45).png>)
 
 * **email** - Enter the email address
 * **scopes** - Add the details of the scope created in the Authorization Server. Enter the name of the default scope created.

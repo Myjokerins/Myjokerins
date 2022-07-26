@@ -39,7 +39,7 @@ The first step is ingesting the metadata from your sources. Under Settings you w
 
 To visit the _Services_ page, select _Services_ from the _Settings_ menu.
 
-![Navigate to Settings >> Services](<../../../.gitbook/assets/image (4) (1).png>)
+![Navigate to Settings >> Services](<../../../.gitbook/assets/image (24).png>)
 
 ### 2. Create a New Service
 
@@ -99,13 +99,13 @@ Enter the details for any additional connection arguments such as security or pr
 
 </details>
 
-![Service has been saved](<../../../.gitbook/assets/image (13) (1).png>)
+![Service has been saved](<../../../.gitbook/assets/image (112).png>)
 
 ### 6. Configure the Metadata Ingestion
 
 Once the service is created, we can add a **Metadata Ingestion Workflow**, either directly from the _Add Ingestion_ button in the figure above, or from the Service page:
 
-![Add a Metadata Ingestion Workflow from the Service Page](<../../../.gitbook/assets/image (68) (1) (1).png>)
+![Add a Metadata Ingestion Workflow from the Service Page](<../../../.gitbook/assets/image (326) (2).png>)
 
 <details>
 
@@ -201,7 +201,7 @@ After configuring the workflow, you can click on _Deploy_ to create the pipeline
 
 Once the workflow has been successfully deployed, you can view the Ingestion Pipeline running from the Service Page.
 
-![View the Ingestion Pipeline from the Service Page](<../../../.gitbook/assets/image (106).png>)
+![View the Ingestion Pipeline from the Service Page](<../../../docs/.gitbook/assets/image (12) (1).png>)
 
 ### 9. Workflow Deployment Error
 
@@ -209,7 +209,7 @@ If there were any errors during the workflow deployment process, the Ingestion P
 
 You can then edit the Ingestion Pipeline and _Deploy_ it again.
 
-![Edit and Deploy the Ingestion Pipeline](<../../../.gitbook/assets/image (170).png>)
+![Edit and Deploy the Ingestion Pipeline](<../../../.gitbook/assets/image (19) (1) (1).png>)
 
 From the _Connection_ tab, you can also _Edit_ the Service if needed.
 

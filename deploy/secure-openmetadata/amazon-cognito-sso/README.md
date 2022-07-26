@@ -6,8 +6,8 @@ Follow the sections in this guide to set up [Amazon Cognito](https://aws.amazon.
 [create-server-credentials.md](create-server-credentials.md)
 {% endcontent-ref %}
 
-{% content-ref url="configure-openmetadata/" %}
-[configure-openmetadata](configure-openmetadata/)
+{% content-ref url="../okta-sso/configure-openmetadata/" %}
+[configure-openmetadata](../okta-sso/configure-openmetadata/)
 {% endcontent-ref %}
 
 {% content-ref url="configure-ingestion.md" %}

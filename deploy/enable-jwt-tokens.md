@@ -64,7 +64,7 @@ __
 
 Once the above configuration is updated, the server is restarted. Admin can go to Settings -> Bots page.
 
-![](<../.gitbook/assets/image (168).png>)
+![](<../.gitbook/assets/image (200).png>)
 
 Click on the generate token to create a token for the ingestion bot.
 

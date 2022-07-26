@@ -53,13 +53,13 @@ Select the service type which are available on the amundsen and create a service
 
 ![](<../../.gitbook/assets/image (41).png>)
 
-![Service Created](<../../.gitbook/assets/image (318).png>)
+![Service Created](<../../.gitbook/assets/image (45) (2).png>)
 
 Note: Adding ingestion in this step is optional, because we will fetch the metadata from amundsen.
 
 After creating all the database services, my service page looks like below and we are ready to start with the amundsen ingestion via cli.
 
-![](<../../.gitbook/assets/image (324).png>)
+![](<../../.gitbook/assets/image (79) (3).png>)
 
 ## Metadata Ingestion
 

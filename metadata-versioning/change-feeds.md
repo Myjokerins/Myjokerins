@@ -6,4 +6,4 @@ The OpenMetadata home screen features a change activity feed that enables you vi
 * Data for which you are an owner
 * Data you are following
 
-![](../.gitbook/assets/activity-feed.gif)
+![](../docs/.gitbook/assets/activity-feed.gif)

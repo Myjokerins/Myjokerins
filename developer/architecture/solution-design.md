@@ -17,7 +17,7 @@ The goal of this first section is to get familiar with the high-level concepts a
 
 Here we have the main actors of the solution:
 
-![System Context Diagram](../../.gitbook/assets/system-context-diagram.drawio.png)
+![System Context Diagram](../../docs/.gitbook/assets/system-context-diagram.drawio.png)
 
 * **API:** This is the main pillar of OpenMetadata. Here we have defined how we can interact with the metadata **Entities**. It powers all the other components of the solution.
 * **UI:** Discovery-focused tool that helps users keep track of all the data assets in the organisation. Its goal is enabling and fueling **collaboration**.
@@ -53,7 +53,7 @@ While the data is stored in the MySQL container, the API will be the one fetchin
 
 Having a **Serving Layer** (API) decoupled from the Storage Layer allows users and integrations to ask for what they need in a simple language (REST), without the learning curve of diving into specific data models and design choices.
 
-![API Container Diagram](../../.gitbook/assets/system-context-diagram-API-Container-Diagram.drawio.png)
+![API Container Diagram](../../docs/.gitbook/assets/system-context-diagram-API-Container-Diagram.drawio.png)
 
 ### Entity Resource
 
@@ -123,7 +123,7 @@ To take the most out of this section, it is recommended to follow the source cod
 
 We will start with the simplest scenario: Creating a new Entity via a `POST` call. This is a great first point to review as part of the logic and methods are reused during updates.
 
-![Component Diagram of a POST call to the API](../../.gitbook/assets/system-context-diagram-API-component-POST-diagram.drawio.png)
+![Component Diagram of a POST call to the API](../../docs/.gitbook/assets/system-context-diagram-API-component-POST-diagram.drawio.png)
 
 #### Create
 
@@ -157,7 +157,7 @@ At the end of these calls, we end up with a validated Entity holding all the req
 
 Let's now build on top of what we learned during the `POST` discussion, expanding the example to a `PUT` request handling.
 
-![Component Diagram of a PUT call to the API](../../.gitbook/assets/system-context-diagram-API-component-PUT-diagram.drawio.png)
+![Component Diagram of a PUT call to the API](../../docs/.gitbook/assets/system-context-diagram-API-component-PUT-diagram.drawio.png)
 
 The first steps are fairly similar:
 

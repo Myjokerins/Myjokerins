@@ -40,7 +40,7 @@ The first step is ingesting the metadata from your sources. Under Settings you w
 
 To visit the _Services_ page, select _Services_ from the _Settings_ menu.
 
-![Navigate to Settings >> Services](<../../../.gitbook/assets/image (4) (1).png>)
+![Navigate to Settings >> Services](<../../../.gitbook/assets/image (24).png>)
 
 ### 2. Create a New Service
 
@@ -174,7 +174,7 @@ Set the _Ingest sample data_ toggle to the on position to control whether or not
 
 </details>
 
-![](<../../../.gitbook/assets/image (135).png>)
+![](<../../../.gitbook/assets/image (14) (1) (1).png>)
 
 ### 7. Schedule the Ingestion and Deploy
 
@@ -236,7 +236,7 @@ If there were any errors during the workflow deployment process, the Ingestion P
 
 You can then edit the Ingestion Pipeline and _Deploy_ it again.
 
-![Edit and Deploy the Ingestion Pipeline](<../../../.gitbook/assets/image (35) (2).png>)
+![Edit and Deploy the Ingestion Pipeline](<../../../.gitbook/assets/image (86).png>)
 
 From the _Connection_ tab, you can also _Edit_ the Service if needed.
 

@@ -159,7 +159,7 @@ http://localhost:8585
 
 You should see a page similar to the following as the landing page for the OpenMetadata UI.
 
-![](../.gitbook/assets/landing-page.png)
+![](../docs/.gitbook/assets/landing-page.png)
 
 ### 4. Install `prefect-openmetadata`
 

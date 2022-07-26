@@ -1,6 +1,6 @@
 # 🎆 Open Source Community
 
-![](.gitbook/assets/community.png)
+![](docs/.gitbook/assets/community.png)
 
 ### Meet & Greet on Slack
 

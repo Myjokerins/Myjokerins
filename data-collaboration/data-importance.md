@@ -4,6 +4,6 @@ Tier tags enable you to annotate assets with their importance relative to other 
 
 User Tier tags and usage data to identify the relative importance of data assets.
 
-![](<../.gitbook/assets/asset-importance (1).gif>)
+![](<../docs/.gitbook/assets/asset-importance (1).gif>)
 
 ####

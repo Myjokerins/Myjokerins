@@ -37,7 +37,7 @@ The first step is ingesting the metadata from your sources. Under Settings, you 
 
 To visit the _Services_ page, select _Services_ from the _Settings_ menu.
 
-![Navigate to Settings >> Services](<../../../.gitbook/assets/image (24).png>)
+![Navigate to Settings >> Services](<../../../.gitbook/assets/image (4) (1).png>)
 
 ### 2. Create a New Service
 
@@ -59,7 +59,7 @@ Provide a name and description for your service as illustrated below.
 
 OpenMetadata uniquely identifies services by their _Service Name_. Provide a name that distinguishes your deployment from other services, including the other Superset services that you might be ingesting metadata from.
 
-![](<../../../.gitbook/assets/image (182).png>)
+![](<../../../.gitbook/assets/image (43) (1).png>)
 
 ### 5. Configure the Service Connection
 
@@ -153,7 +153,7 @@ After configuring the workflow, you can click on _Deploy_ to create the pipeline
 
 Once the workflow has been successfully deployed, you can view the Ingestion Pipeline running from the Service Page.
 
-![](<../../../.gitbook/assets/image (137).png>)
+![](<../../../.gitbook/assets/image (36) (1) (1) (1) (1).png>)
 
 ### 9. Workflow Deployment Error
 
@@ -161,7 +161,7 @@ If there were any errors during the workflow deployment process, the Ingestion P
 
 You can then edit the Ingestion Pipeline and _Deploy_ it again.
 
-![](<../../../.gitbook/assets/image (36) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (137) (3).png>)
 
 From the _Connection_ tab, you can also _Edit_ the Service if needed.
 

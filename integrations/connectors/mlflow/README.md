@@ -37,7 +37,7 @@ The first step is ingesting the metadata from your sources. Under Settings you w
 
 To visit the _Services_ page, select _Services_ from the _Settings_ menu.
 
-![Navigate to Settings >> Services](<../../../.gitbook/assets/image (24).png>)
+![Navigate to Settings >> Services](<../../../.gitbook/assets/image (4) (1).png>)
 
 ### 2. Create a New Service
 
@@ -49,7 +49,7 @@ Click on the _Add New Service_ button to start the Service creation.
 
 Select MLflow as the service type and click _Next_.
 
-![](<../../../.gitbook/assets/image (71).png>)
+![](<../../../.gitbook/assets/image (188).png>)
 
 ### 4. Name and Describe your Service
 
@@ -59,7 +59,7 @@ Provide a name and description for your service as illustrated below.
 
 OpenMetadata uniquely identifies services by their _Service Name_. Provide a name that distinguishes your deployment from other services, including the other MLflow services that you might be ingesting metadata from.
 
-![](<../../../.gitbook/assets/image (188).png>)
+![](<../../../.gitbook/assets/image (71).png>)
 
 ### 5. Configure the Service Connection
 
@@ -87,7 +87,7 @@ The MLflow Model Registry component is a centralized model store, set of APIs, a
 
 Once the service is created, we can add a **Metadata Ingestion Workflow**, either directly from the _Add Ingestion_ button in the figure above, or from the Service page:
 
-![Add a Metadata Ingestion Workflow from the Service Page](<../../../.gitbook/assets/image (326).png>)
+![Add a Metadata Ingestion Workflow from the Service Page](<../../../.gitbook/assets/image (68) (1) (1) (1) (2) (1).png>)
 
 <details>
 
@@ -147,7 +147,7 @@ After configuring the workflow, you can click on _Deploy_ to create the pipeline
 
 Once the workflow has been successfully deployed, you can view the Ingestion Pipeline running from the Service Page.
 
-![View the Ingestion Pipeline from the Service Page](<../../../.gitbook/assets/image (106).png>)
+![View the Ingestion Pipeline from the Service Page](<../../../docs/.gitbook/assets/image (12) (1).png>)
 
 ### 9. Workflow Deployment Error
 
@@ -155,7 +155,7 @@ If there were any errors during the workflow deployment process, the Ingestion P
 
 You can then edit the Ingestion Pipeline and _Deploy_ it again.
 
-![Edit and Deploy the Ingestion Pipeline](<../../../.gitbook/assets/image (19) (1) (1).png>)
+![Edit and Deploy the Ingestion Pipeline](<../../../.gitbook/assets/image (170).png>)
 
 From the _Connection_ tab, you can also _Edit_ the Service if needed.
 

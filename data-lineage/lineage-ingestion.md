@@ -4,6 +4,6 @@ A large subset of connectors distributed with OpenMetadata include support for l
 
 Using the OpenMetadata user interface and API, you may trace the path of data across tables, pipelines, and dashboards.
 
-![](../.gitbook/assets/lineage.gif)
+![](../docs/.gitbook/assets/lineage.gif)
 
 ###

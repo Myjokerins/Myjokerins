@@ -10,4 +10,4 @@ API support enables a variety of integrations, for example with Webooks and Slac
 
 Conversations can be used to capture knowledge and enhance understanding. In future releases, users or owners will be able to flag certain threads and pin them on the entity page. We’ll work on providing the ability to convert the conversation threads into Tasks, so that we can nurture collaboration towards an action.
 
-![](../.gitbook/assets/conversation-threads.gif)
+![](../docs/.gitbook/assets/conversation-threads.gif)

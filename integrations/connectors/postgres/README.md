@@ -39,7 +39,7 @@ The first step is ingesting the metadata from your sources. Under Settings you w
 
 To visit the _Services_ page, select _Services_ from the _Settings_ menu.
 
-![Navigate to Settings >> Services](<../../../.gitbook/assets/image (4) (1).png>)
+![Navigate to Settings >> Services](<../../../.gitbook/assets/image (24).png>)
 
 ### 2. Create a New Service
 
@@ -67,7 +67,7 @@ OpenMetadata uniquely identifies services by their _Service Name_. Provide a nam
 
 In this step, we will configure the connection settings required for this connector. Please follow the instructions below to ensure that you've configured the connector to read from your Postgres service as desired.
 
-![](<../../../.gitbook/assets/Screenshot 2022-04-28 at 3.01.26 PM.png>)
+![](<../../../docs/.gitbook/assets/Screenshot 2022-04-28 at 3.01.26 PM.png>)
 
 <details>
 
@@ -97,13 +97,13 @@ Enter the details for any additional connection arguments such as security or pr
 
 After hitting Save you will see that your connector has been added successfully, and you can add an ingestion.
 
-![](<../../../.gitbook/assets/Screenshot 2022-04-28 at 3.17.01 PM.png>)
+![](<../../../docs/.gitbook/assets/Screenshot 2022-04-28 at 3.17.01 PM.png>)
 
 ### 6. Configure the Metadata Ingestion
 
 Once the service is created, we can add a **Metadata Ingestion Workflow**, either directly from the _Add Ingestion_ button in the figure above, or from the Service page:
 
-![](<../../../.gitbook/assets/Screenshot 2022-04-28 at 6.05.10 PM.png>)
+![](<../../../docs/.gitbook/assets/Screenshot 2022-04-28 at 6.05.10 PM.png>)
 
 <details>
 
@@ -199,7 +199,7 @@ After configuring the workflow, you can click on _Deploy_ to create the pipeline
 
 Once the workflow has been successfully deployed, you can view the Ingestion Pipeline running from the Service Page.
 
-![](<../../../.gitbook/assets/Screenshot 2022-04-28 at 3.20.27 PM.png>)
+![](<../../../docs/.gitbook/assets/Screenshot 2022-04-28 at 3.20.27 PM.png>)
 
 ### 9. Workflow Deployment Error
 
@@ -207,7 +207,7 @@ If there were any errors during the workflow deployment process, the Ingestion P
 
 You can then edit the Ingestion Pipeline and _Deploy_ it again.
 
-![](<../../../.gitbook/assets/image (73).png>)
+![](<../../../docs/.gitbook/assets/image (8) (1).png>)
 
 ## Data Profiler and Quality Tests
 
