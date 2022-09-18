@@ -269,3 +269,9 @@ export-snyk-html-report:  ## export json file from security-report/ to HTML
 	@echo "Reading all results"
 	npm install snyk-to-html -g
 	ls security-report | xargs -I % snyk-to-html -i security-report/% -o security-report/%.html
+
+.PHONY: generate-schema-docs
+generate-schema-docs:  ## export json file from security-report/ to HTML
+	@echo "Generating Schema docs"
+	python -m pip install "jsonschema2md"
+	python scripts/generate_docs_schemas.py
