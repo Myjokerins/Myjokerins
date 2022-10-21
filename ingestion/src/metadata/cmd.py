@@ -291,6 +291,9 @@ def add_metadata_args(parser: argparse.ArgumentParser):
 
 
 def get_parser(args=None):
+    """
+    Parser method that returns parsed_args
+    """
     parser = argparse.ArgumentParser(prog="metadata", description="Ingestion Framework")
     sub_parser = parser.add_subparsers(dest="command")
 
